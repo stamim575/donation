@@ -171,10 +171,10 @@ body {
 /* needs start */
 .needs {
     text-align: center;
-    width: 80%;
+    width: 60%;
     color: white;
     background-color: cadetblue;
-    margin: 100px 130px;
+    margin: 100px 250px;
     padding: 20px 0;
     border-radius: 10px;
 }
@@ -185,7 +185,7 @@ body {
 
 .needs p {
     width: 50%;
-    margin-left: 300px;
+    margin-left: 190px;
 }
 
 .basic {
@@ -243,9 +243,11 @@ body {
 /* footer start */
 .footer {
     text-align: center;
+    width: 80%;
     height: 150px;
     color: #fff;
     background: #000;
+    margin-left: 130px;
 }
 
 .footer h2 {
